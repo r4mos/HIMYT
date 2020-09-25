@@ -10,7 +10,7 @@
 #define MAIN_SLEEP 10000
 #define SERIAL_BAUD 115200
 #define WIFI_SSID "HIMYT"
-#define WIFI_PSK "UX7YQ^b+j=@jc&Py"
+#define WIFI_PSK "Change me, I'm your wifi password "
 #define WIFI_CHANEL 8
 #define WIFI_HIDDEN false
 #define WIFI_MAX_CONNECTIONS 8
